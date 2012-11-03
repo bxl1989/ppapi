@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/165548/trunk/src/ppapi/native_client/src/untrusted/pnacl_irt_shim
+END
+pnacl_irt_shim.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/162936/trunk/src/ppapi/native_client/src/untrusted/pnacl_irt_shim/pnacl_irt_shim.gyp
+END
+shim_ppapi.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/162936/trunk/src/ppapi/native_client/src/untrusted/pnacl_irt_shim/shim_ppapi.c
+END
+pnacl_shim.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/165548/trunk/src/ppapi/native_client/src/untrusted/pnacl_irt_shim/pnacl_shim.c
+END
+shim_ppapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/155572/trunk/src/ppapi/native_client/src/untrusted/pnacl_irt_shim/shim_ppapi.h
+END
+nacl.scons
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/162936/trunk/src/ppapi/native_client/src/untrusted/pnacl_irt_shim/nacl.scons
+END
+shim_entry.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/162936/trunk/src/ppapi/native_client/src/untrusted/pnacl_irt_shim/shim_entry.c
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/155572/trunk/src/ppapi/native_client/tests/nacl_browser/nameservice
+END
+pm_nameservice_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/chrome/!svn/ver/155572/trunk/src/ppapi/native_client/tests/nacl_browser/nameservice/pm_nameservice_test.cc
+END
+nacl.scons
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/155572/trunk/src/ppapi/native_client/tests/nacl_browser/nameservice/nacl.scons
+END
+pm_nameservice_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/chrome/!svn/ver/155572/trunk/src/ppapi/native_client/tests/nacl_browser/nameservice/pm_nameservice_test.html
+END

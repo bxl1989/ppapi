@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/chrome/!svn/ver/165807/trunk/src/ppapi/native_client
+END
+ppapi_scons_files.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/165027/trunk/src/ppapi/native_client/ppapi_scons_files.py
+END
+DEPS
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/chrome/!svn/ver/155572/trunk/src/ppapi/native_client/DEPS
+END
+irt_test.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/156907/trunk/src/ppapi/native_client/irt_test.gyp
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/158028/trunk/src/ppapi/native_client/OWNERS
+END
+native_client.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/156685/trunk/src/ppapi/native_client/native_client.gyp
+END
+chrome_main.scons
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/162173/trunk/src/ppapi/native_client/chrome_main.scons
+END

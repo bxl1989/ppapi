@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/155572/trunk/src/ppapi/native_client/tests/nacl_browser/pnacl_client_translator
+END
+pnacl_bad_pexe.nmf
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/chrome/!svn/ver/155572/trunk/src/ppapi/native_client/tests/nacl_browser/pnacl_client_translator/pnacl_bad_pexe.nmf
+END
+pnacl_bad2_pexe.nmf
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/chrome/!svn/ver/155572/trunk/src/ppapi/native_client/tests/nacl_browser/pnacl_client_translator/pnacl_bad2_pexe.nmf
+END
+pnacl_bad_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/chrome/!svn/ver/155572/trunk/src/ppapi/native_client/tests/nacl_browser/pnacl_client_translator/pnacl_bad_test.html
+END
+bad.pexe
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/chrome/!svn/ver/155572/trunk/src/ppapi/native_client/tests/nacl_browser/pnacl_client_translator/bad.pexe
+END
+bad2.pexe
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/chrome/!svn/ver/155572/trunk/src/ppapi/native_client/tests/nacl_browser/pnacl_client_translator/bad2.pexe
+END
+pnacl_bad_doesnotexist.nmf
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/chrome/!svn/ver/155572/trunk/src/ppapi/native_client/tests/nacl_browser/pnacl_client_translator/pnacl_bad_doesnotexist.nmf
+END
+pnacl_test_example.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/chrome/!svn/ver/155572/trunk/src/ppapi/native_client/tests/nacl_browser/pnacl_client_translator/pnacl_test_example.html
+END
+pnacl_bad_doesnotexist_pexe_only.nmf
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/chrome/!svn/ver/155572/trunk/src/ppapi/native_client/tests/nacl_browser/pnacl_client_translator/pnacl_bad_doesnotexist_pexe_only.nmf
+END
+pnacl_bad_pexe_undefined_syms.nmf
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/chrome/!svn/ver/155572/trunk/src/ppapi/native_client/tests/nacl_browser/pnacl_client_translator/pnacl_bad_pexe_undefined_syms.nmf
+END
+nacl.scons
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/chrome/!svn/ver/155572/trunk/src/ppapi/native_client/tests/nacl_browser/pnacl_client_translator/nacl.scons
+END
